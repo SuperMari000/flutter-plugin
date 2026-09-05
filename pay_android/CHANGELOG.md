@@ -1,6 +1,6 @@
 # Changelog
 
-## 3.3.0 (2026-09-05)
+## 3.2.1 (2026-09-05)
 
 * Apply Kotlin Gradle Plugin only when AGP built-in Kotlin is inactive.
 
